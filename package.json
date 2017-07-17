@@ -1,7 +1,7 @@
 {
-  "name": "jquery_iterable",
+  "name": "cheerio-iterable",
   "version": "1.0.0",
-  "description": "",
+  "description": "Adds iterable functionality to the cheerio module, and adds conventional array functionality to cheerio (jquery) style elements",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,5 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2"
-  },
-  "devDependencies": {
-    "chai": "^4.1.0",
-    "mocha": "^3.4.2"
   }
 }
